@@ -1,0 +1,5 @@
+AmazonChimeSDK.framework/
+AmazonChimeSDKMedia.framework/
+Pods/
+build/
+.git/
